@@ -57,7 +57,8 @@ _it is a live document. contributions are welcome. this is a first draft_
 
 ## Proper Error Handling 
 ( catch, logging strategy, error conventions, user feedback )
-Optimistic UI updates
+
+## Optimistic UI updates
 
 
 ---
