@@ -21,9 +21,11 @@ _it is a live document. contributions are welcome. this is a first draft_
 
 ## Good Documentation
 
-## Keep dependencies up to date and secure ( read the modules code )
+## Keep dependencies up to date and secure 
+( read the modules code )
 
-## Lock dependencies ( yarn.lock, npm-shrinkwrap.json )
+## Lock dependencies 
+( yarn.lock, npm-shrinkwrap.json )
 
 ## Peer Code Reviews
 
