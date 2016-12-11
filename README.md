@@ -1,6 +1,7 @@
 # A JavaScript Code Quality Guide
 
-This document is intedend to be a comprehensive guide to JavaScript code quality. It encompases principles, concepts, processes, conventions, standards and tooling.
+This document aims to be a comprehensive guide to JavaScript code quality. 
+It encompases principles, concepts, processes, conventions, standards and tooling.
 
 _it is a live document. contributions are welcome. this is a first draft_
 
