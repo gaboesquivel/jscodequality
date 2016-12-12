@@ -61,6 +61,8 @@ _it is a live document. contributions are welcome. this is a first draft_
 
 ## Optimistic UI updates
 
+## Use object and collection helpers
+Eg. Lodash get and has methods
 
 ---
 Made with ♥ by Gabo Esquivel ([@gaboesquivel](https://gaboesquivel.com)) and [contributors](https://github.com/gaboesquivel/jscodequality)
