@@ -65,5 +65,6 @@ Eg. Lodash get and has methods
 
 ## Security 
 Prevent Cross Site Scripting and don't store sensitive data in the browser data stores
+
 ---
 Made with ♥ by Gabo Esquivel ([@gaboesquivel](https://gaboesquivel.com)) and [contributors](https://github.com/gaboesquivel/jscodequality)
