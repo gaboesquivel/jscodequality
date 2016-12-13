@@ -10,7 +10,6 @@ _it is a live document. contributions are welcome. this is a first draft_
 
 ## Coding Style Guide ( eslint )
 
-
 ## Automated Tests  
 ( Unit, Functional/Non-Regression, E2E )
 
@@ -64,5 +63,7 @@ _it is a live document. contributions are welcome. this is a first draft_
 ## Use object and collection helpers
 Eg. Lodash get and has methods
 
+## Security 
+Prevent Cross Site Scripting and don't store sensitive data in the browser data stores
 ---
 Made with ♥ by Gabo Esquivel ([@gaboesquivel](https://gaboesquivel.com)) and [contributors](https://github.com/gaboesquivel/jscodequality)
