@@ -11,7 +11,7 @@ _it is a live document. contributions are welcome. this is a first draft_
 ## Coding Style Guide ( eslint )
 
 ## Automated Tests  
-( Unit, Functional/Non-Regression, E2E )
+( Unit, Functional/Non-Regression, E2E, Stress )
 
 ## Technology ( framework, language ) Conventions
 
