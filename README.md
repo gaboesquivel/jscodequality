@@ -1,9 +1,11 @@
 # A JavaScript Code Quality Guide
 
-This document aims to be a comprehensive guide to JavaScript code quality. 
+This document aims to be a comprehensive guide to JavaScript code quality.
 It encompases principles, concepts, processes, conventions, standards and tooling.
 
 _it is a live document. contributions are welcome. this is a first draft_
+
+![](code-reviews-wtfs.png)
 
 ## Proper Build Process  
 ( sourcemaps, static asset management, cache busting hashes )
@@ -21,10 +23,10 @@ _it is a live document. contributions are welcome. this is a first draft_
 
 ## Good Documentation
 
-## Keep dependencies up to date and secure 
+## Keep dependencies up to date and secure
 ( read the modules code )
 
-## Lock dependencies 
+## Lock dependencies
 ( yarn.lock, npm-shrinkwrap.json )
 
 ## Peer Code Reviews
@@ -32,30 +34,30 @@ _it is a live document. contributions are welcome. this is a first draft_
 ## Code Clean Principles
 ( descriptive naming and auto explanatory code, no javadoc )
 
-## Code Notes 
+## Code Notes
 ( TODO, FIXME ) https://github.com/stephenb/node-notes
 
-## Remove event listeners on teardown 
+## Remove event listeners on teardown
 
 ## Avoid Callback Hell
 
-## Avoid Anonymous Functions 
+## Avoid Anonymous Functions
 ( arrow functions are ok )
 
-## Avoid “too clever” code lines 
+## Avoid “too clever” code lines
 
-## Prefer Pure Functions 
+## Prefer Pure Functions
 
-## Avoid Blocking Code 
-( i/o, long computation) 
+## Avoid Blocking Code
+( i/o, long computation)
 
 ## Thoughtful DOM updates
-[ requestAnimationFrame, ShadowDOM ] 
+[ requestAnimationFrame, ShadowDOM ]
 
 ## Avoid Global Scope Abuse  
 (  globals are evil )
 
-## Proper Error Handling 
+## Proper Error Handling
 ( catch, logging strategy, error conventions, user feedback )
 
 ## Optimistic UI updates
@@ -63,11 +65,11 @@ _it is a live document. contributions are welcome. this is a first draft_
 ## Use object and collection helpers
 Eg. Lodash get and has methods
 
-## Security 
+## Security
 Prevent Cross Site Scripting and don't store sensitive data in the browser data stores
 
 ## Prevent Code Duplication
-jsinspect and pmd 
+jsinspect and pmd
 
 ## Choose the Right Data Structure
 
