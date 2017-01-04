@@ -75,4 +75,4 @@ jsinspect and pmd
 
 
 ---
-Made with ♥ by Gabo Esquivel ([@gaboesquivel](https://gaboesquivel.com)) and [contributors](https://github.com/gaboesquivel/jscodequality)
+Made with ♥ by [Gabo Esquivel](http://gaboesquivel.com)) and [contributors](https://github.com/gaboesquivel/jscodequality/graphs/contributors)
