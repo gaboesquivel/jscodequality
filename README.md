@@ -66,7 +66,10 @@ _it is a live document. contributions are welcome. this is a first draft_
 Eg. Lodash get and has methods
 
 ## Security
+
+Reduce bugs with and vulnerabilities with Static code analyis: Flow, nodesecurity.io, retire.js, DependencyCheck
 Prevent Cross Site Scripting and don't store sensitive data in the browser data stores
+https://gist.github.com/gaboesquivel/910b8018f6f0997ef1384e309154b84e
 
 ## Prevent Code Duplication
 jsinspect and pmd
